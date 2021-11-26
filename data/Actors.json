@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"perso","classId":1,"equips":[1,1],"faceIndex":0,"faceName":"Perso","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fouzi","nickname":"Fouzi","note":"","profile":"cd .."},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"perso","classId":2,"equips":[2,2,0,0,0],"faceIndex":1,"faceName":"Perso","traits":[],"initialLevel":5,"maxLevel":99,"name":"Jerome","nickname":"Jerome","note":"","profile":"C'est absurde."},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"perso","classId":3,"equips":[3,3,0,0,0],"faceIndex":2,"faceName":"Perso","traits":[],"initialLevel":1,"maxLevel":99,"name":"Perrot","nickname":"Perrot","note":"","profile":"On est pas au club med ici."},
+{"id":4,"battlerName":"","characterIndex":3,"characterName":"perso","classId":4,"equips":[4,4,0,0,0],"faceIndex":3,"faceName":"Perso","traits":[],"initialLevel":1,"maxLevel":99,"name":"Paterlini","nickname":"Paterlini","note":"","profile":""}
+]
